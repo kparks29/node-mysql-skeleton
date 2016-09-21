@@ -1,0 +1,9 @@
+{
+  "host": "HOST",
+  "user": "USER",
+  "password": "PASSWORD",
+  "database": "DATABASE",
+  "testDatabase": "TESTDATABASE",
+  "port": 8000,
+  "secretKey": "SECRETKEY"
+}
